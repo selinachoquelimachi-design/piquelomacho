@@ -1,0 +1,111 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Hero */
+.hero-table {
+  width: 90%;
+  margin-top: 20px;
+}
+
+.hero-text {
+  text-align: left;
+}
+
+.hero-text .kicker {
+  font-weight: bold;
+  color: #FF9900;
+}
+
+.hero-text h1 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.hero-text p {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.hero-img img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+/* Botones y badge */
+.btn-primary {
+  background-color: #FF6600;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+.btn-outline {
+  border: 1px solid #FF6600;
+  color: #FF6600;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+.badge {
+  background-color: #FFD700;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+/* Info general */
+.info-table {
+  width: 90%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.info-table td {
+  width: 33%;
+  vertical-align: top;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+/* Menú */
+.menu-table {
+  width: 90%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.menu-table td {
+  width: 33%;
+  vertical-align: top;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+}
+
+.menu-table img {
+  width: 200px;
+  border-radius: 10px;
+}
+
+/* Footer */
+hr {
+  width: 90%;
+  margin-top: 30px;
+  border: 1px solid #ddd;
+}
+
+footer a {
+  margin: 0 5px;
+  color: #FF6600;
+}
